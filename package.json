@@ -1,0 +1,16 @@
+{
+  "name": "pfc2d-learning-handbook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PFC2D 离散元学习与研究手册",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^5.2.0",
+    "vitepress": "^1.6.4"
+  }
+}
