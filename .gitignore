@@ -4,3 +4,6 @@ node_modules/
 # VitePress 构建产物与缓存
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+
+# Itasca 官方参考文档（本地参考资料，不上传）
+doc-itasca/
